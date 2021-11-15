@@ -1,7 +1,7 @@
 ## 👋 HELLO
      
 ### 😁 INIT RUST
--😁〰️ rust free simple boot without vscode
+-😁 rust free simple boot without vscode
 -----
 
 
